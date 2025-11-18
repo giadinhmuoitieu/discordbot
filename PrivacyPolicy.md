@@ -1,6 +1,6 @@
 Privacy Policy for Uyên sư muội
 
-This Privacy Policy governs the collection, use, and sharing of personal information by Uyên sư muội, a Discord bot developed by [Developer Name]. By using Uyên sư muội, you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the collection, use, and sharing of personal information by Uyên sư muội, a Discord bot developed by huyisekai. By using Uyên sư muội, you agree to the terms of this Privacy Policy.
 
 Information We Collect
 
@@ -28,7 +28,7 @@ We may update this Privacy Policy from time to time, and we will post the update
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Developer Email].
+If you have any questions or concerns about this Privacy Policy, please contact us at area3creepy@gmail.com.
 
 Effective Date
 
